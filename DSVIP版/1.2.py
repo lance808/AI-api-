@@ -188,7 +188,7 @@ class DeepSeekClient:
 # 使用示例
 if __name__ == "__main__":
     client = DeepSeekClient(
-        api_key="sk-4b56587af95f4e9c8ae79089e48e7bc7",  # 必须替换为实际的 API 密钥
+        api_key="",  # 必须替换为实际的 API 密钥
         api_base="https://api.deepseek.com/v1"
     )
 
